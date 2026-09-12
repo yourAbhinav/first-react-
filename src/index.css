@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: purple;
+}
+
+.one {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: yellow;
+}
